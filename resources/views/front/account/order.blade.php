@@ -67,7 +67,8 @@
                                 </tbody>
                             </table>
                         </div>  
-                        <div>{{$orders->links()}}</div>   
+                        <div>{{$orders->links()}}</div> 
+                          
                     </div>
                 </div>
             </div>
